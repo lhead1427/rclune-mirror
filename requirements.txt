@@ -1,6 +1,6 @@
 anytree
 apscheduler
-aria2p
+git+https://github.com/rajanvibes/amriac2mp
 bencoding
 beautifulsoup4
 cfscrape
